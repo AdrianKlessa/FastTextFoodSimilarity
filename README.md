@@ -1,6 +1,6 @@
 ### Measuring how similar the dishes in different restaurants are based on their names and textual descriptions
 
-### Used in the MealQR engineering project
+### Used in the [MealQR engineering project](https://github.com/Yurii17K/MealQR)
 
 #### Elements
 
